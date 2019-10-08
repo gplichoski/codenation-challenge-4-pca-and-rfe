@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skipped="0" tests="4" time="3.246"><testcase classname="test_submit" file="test_submit.py" line="3" name="test_q1" time="0.079"></testcase><testcase classname="test_submit" file="test_submit.py" line="8" name="test_q2" time="0.065"></testcase><testcase classname="test_submit" file="test_submit.py" line="13" name="test_q3" time="0.105"></testcase><testcase classname="test_submit" file="test_submit.py" line="18" name="test_q4" time="0.445"><system-out>Fitting estimator with 36 features.
+Fitting estimator with 35 features.
+Fitting estimator with 34 features.
+Fitting estimator with 33 features.
+Fitting estimator with 32 features.
+Fitting estimator with 31 features.
+Fitting estimator with 30 features.
+Fitting estimator with 29 features.
+Fitting estimator with 28 features.
+Fitting estimator with 27 features.
+Fitting estimator with 26 features.
+Fitting estimator with 25 features.
+Fitting estimator with 24 features.
+Fitting estimator with 23 features.
+Fitting estimator with 22 features.
+Fitting estimator with 21 features.
+Fitting estimator with 20 features.
+Fitting estimator with 19 features.
+Fitting estimator with 18 features.
+Fitting estimator with 17 features.
+Fitting estimator with 16 features.
+Fitting estimator with 15 features.
+Fitting estimator with 14 features.
+Fitting estimator with 13 features.
+Fitting estimator with 12 features.
+Fitting estimator with 11 features.
+Fitting estimator with 10 features.
+Fitting estimator with 9 features.
+Fitting estimator with 8 features.
+Fitting estimator with 7 features.
+Fitting estimator with 6 features.
+</system-out></testcase></testsuite>
